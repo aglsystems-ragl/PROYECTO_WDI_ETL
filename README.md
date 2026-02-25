@@ -99,7 +99,7 @@ Flujo general:
 │   ├── raw/
 │   │   └── WDI_10k_AGL.csv
 │   └── processed/
-│       └── (opcional: exports o archivos intermedios)
+│       └── (Se coloco para seguir recomendaciones del profesor en estructura)
 ├── docs/
 │   └── imagenes/
 │       ├── modelo_relacional.png
