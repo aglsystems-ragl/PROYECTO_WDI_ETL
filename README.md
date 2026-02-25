@@ -2,7 +2,7 @@
 
 ## Integrantes
 - **RODRIGO ANDRES GOMEZ LOPEZ** 
-- **BRAYAN GONZALES**
+- **BRAYAN GUTIERREZ**
 
 
 ---
